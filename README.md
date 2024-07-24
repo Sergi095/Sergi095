@@ -27,4 +27,4 @@ The link of the project source code can be found at: [Thesis Source Code](https:
 - **Neural Networks**: [Repository link](https://github.com/Sergi095/Uva_RLcourse_2023.git)
 
 ---
-[Your LinkedIn](https://www.linkedin.com/in/sergiogutierrezmaury/) | [Your Email](sergio.gutierrezmaury@gmail.com)
+💻[LinkedIn](https://www.linkedin.com/in/sergiogutierrezmaury/) | 📧[Email](sergio.gutierrezmaury@gmail.com)
