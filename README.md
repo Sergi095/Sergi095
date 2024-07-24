@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Sergi095/Sergi095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an AI enthusiast pursuing an MSc in Artificial Intelligence at Vrije Universiteit Amsterdam. With a background in Economics from Universiteit van Amsterdam, I enjoy learning new things and applying my skills to real-world problems. My experience ranges from research support and software development to data analysis and product management. I am passionate about innovation and making a difference through technology.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [hoeZegJijIetsmet](https://hoezegjijietsmet.nl/)
+Psychology Study at Vrije Universiteit Amsterdam
+
+This project was developed while I was working as a software developer and student assistant at the psychology faculty of Vrije Universiteit Amsterdam.
+
+It has two versions:
+
+- **Version 1**: Built with JATOS and pure JavaScript, used as a demo on 23rd February 2024 at NEMO Science Museum. [Repo Link](https://github.com/Sergi095/hoeZegJijIetsmet.git)
+- **Version 2**: Currently under development, uses React and TypeScript, and will be hosted as an online experiment for one year.
+
+### [Robotics Thesis: Sensory Heterogeneous Predator Swarm vs Fully Sensing Prey Swarm](https://sergi095.pythonanywhere.com/)
+Swarm predators chase swarm prey with minimal information possible.
+
+The presentation of the thesis was made with Dash and is available online.
+
+The link of the project source code can be found at: [Thesis Source Code](https://github.com/Sergi095/Vu_Thesis_Prey_Predator.git)
+
+### Other Projects
+- **Reinforcement Learning Algorithms**: [Repository link](https://github.com/Sergi095/deeplearning_vu.git)
+- **Neural Networks**: [Repository link]([to be added](https://github.com/Sergi095/Uva_RLcourse_2023.git)
+
+---
+[Your LinkedIn](https://www.linkedin.com/in/sergiogutierrezmaury/) | [Your Email](sergio.gutierrezmaury@gmail.com)
