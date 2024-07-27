@@ -26,6 +26,7 @@ The link of the project source code can be found at: [Thesis Source Code](https:
 These projects were done as part of university curriculum:
 - **Reinforcement Learning Algorithms**: [Repository link](https://github.com/Sergi095/Uva_RLcourse_2023.git)
 - **Neural Networks**: [Repository link](https://github.com/Sergi095/deeplearning_vu.git)
+- **Language App for NLP**: [Repository Link](https://github.com/Sergi095/Language_App_NLP.git)
 
 ---
 💻[LinkedIn](https://www.linkedin.com/in/sergiogutierrezmaury/) | 📧[Email](sergio.gutierrezmaury@gmail.com)
