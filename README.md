@@ -23,8 +23,9 @@ The presentation of the thesis was made with Dash and is available online.
 The link of the project source code can be found at: [Thesis Source Code](https://github.com/Sergi095/Vu_Thesis_Prey_Predator.git)
 
 ### Other Projects
-- **Reinforcement Learning Algorithms**: [Repository link](https://github.com/Sergi095/deeplearning_vu.git)
-- **Neural Networks**: [Repository link](https://github.com/Sergi095/Uva_RLcourse_2023.git)
+These projects were done as part of university curriculum:
+- **Reinforcement Learning Algorithms**: [Repository link](https://github.com/Sergi095/Uva_RLcourse_2023.git)
+- **Neural Networks**: [Repository link](https://github.com/Sergi095/deeplearning_vu.git)
 
 ---
 💻[LinkedIn](https://www.linkedin.com/in/sergiogutierrezmaury/) | 📧[Email](sergio.gutierrezmaury@gmail.com)
