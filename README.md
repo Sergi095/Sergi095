@@ -29,4 +29,4 @@ These projects were done as part of the university curriculum of the MSc Artific
 - **Translator App for NLP Course**: [Repository Link](https://github.com/Sergi095/Language_App_NLP.git)
 
 ---
-💻[LinkedIn](https://www.linkedin.com/in/sergiogutierrezmaury/) | 📧[Email](sergio.gutierrezmaury@gmail.com) | 📲[Website](https://sergi095.github.io/myCv/)
+💻[LinkedIn](https://www.linkedin.com/in/sergiogutierrezmaury/) | 📧[Email](mailto:sergio.gutierrezmaury@gmail.com) | 📲[Website](https://sergi095.github.io/myCv/)
