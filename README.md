@@ -15,7 +15,7 @@ It has two versions:
 - **Version 1**: Built with JATOS and pure JavaScript, used as a demo on 23rd February 2024 at NEMO Science Museum. [Repo Link](https://github.com/Sergi095/hoeZegJijIetsmet.git)
 - **Version 2**: Currently under development, uses React and TypeScript, and will be hosted as an online experiment for one year.
 
-### [Robotics Thesis: Sensory Heterogeneous Predator Swarm vs Fully Sensing Prey Swarm](sergi095.pythonanywhere.com/0)
+### [Robotics Thesis: Sensory Heterogeneous Predator Swarm vs Fully Sensing Prey Swarm](https://sergi095.pythonanywhere.com/0)
 Swarm predators chase swarm prey with minimal information possible.
 
 The presentation of the thesis was made with Dash and is available online.
